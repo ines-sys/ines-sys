@@ -1,7 +1,7 @@
 ### Welcome to **my little space in the World Wide Web** 👩‍💻👋
 
 <h1>Hellow, word! I'm Ines Montero</h1>
-<em>A computer geek who reads and writes in her break times when not programming in real life</em>💻🎓💙🖋📖
+<em>A computer geek who reads and writes in her break times when not programming in real life</em>💻🎓🖋📖
 </br>
 </br>
 
@@ -36,7 +36,7 @@
     Writer ✒📖
   </li>
   <li>
-    Book Lover 💙📚
+    Book Lover 📚
   </li>
   <li>
     Sister and friend 👭
