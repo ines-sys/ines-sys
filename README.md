@@ -27,10 +27,10 @@
    Computer Systems Engineer 🎓
   </li>
   <li>
-    Frontend web developer 👩‍💻
+    Full Stack Web Developer 👩‍💻
   </li>
   <li>
-     E-commerce developer 👩‍💼👩‍💻
+     E-commerce Developer 👩‍💼👩‍💻
   </li>
   <li>
     Writer ✒📖
