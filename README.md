@@ -10,7 +10,7 @@
 ![ines-sys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ines-sys&theme=tokyonight&hide_border=true)
 
 <p>
-  Passionate, diligent and highly persistent computer systems engineer with more than 2 years of work experience in frontend web development and e-commerce (Shopify, Bigcommerce and WordPress) programming soluctions.
+  Passionate, diligent and highly persistent computer systems engineer with more than 5 years of work experience in web development.
 </p>
 
 <p>
